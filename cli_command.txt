@@ -1,0 +1,7 @@
+conda activate conda_node
+
+acc new {test} 
+
+oj t -c "python main.py"
+
+acc submit
