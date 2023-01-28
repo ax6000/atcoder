@@ -5,3 +5,5 @@ acc new {test}
 oj t -c "python main.py"
 
 acc submit
+
+acc config-dir
